@@ -1,18 +1,14 @@
 # 작업 코드 정리
 
-
-
 ### 토지 AVM
 
-- test
+- ㅅㄷㅌ
   
-  - test
+  - ㅅㄷㅌ
   
-  - test
+  - ㅅㄷㅌ
     
-    - check
-
-
+    - ㅅㄷㅌ
 
 ```r
 library(dplyr)
