@@ -6,7 +6,7 @@
 - KAKAO PNU CODE 추출 코드
 
 
-  ![[current.png]]
+  
   ```r
   KAKAO_LOCATION <-  
     function(KEYWORD){
