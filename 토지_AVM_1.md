@@ -4,7 +4,9 @@
 
 1. **개별공시지가 매칭 및 실거래 바인딩**
 - KAKAO PNU CODE 추출 코드
-  
+
+
+  ![[current.png]]
   ```r
   KAKAO_LOCATION <-  
     function(KEYWORD){
