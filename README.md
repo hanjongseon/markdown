@@ -1,5 +1,4 @@
 # Portfolio
-Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
 ## Main Tools
   - **Python**: NumPy, Pandas, polars, keras, math, xgboost
@@ -31,6 +30,22 @@ Repository containing portfolio of data science projects completed for academic,
     - 2016년 총선 선거사무실 빅데이터 분석 보고 사업(지인과 진행)
       - 후보자별 SNS 반응 분석, 검색량 분석 결과 제공
     
+- ## [Preference](#)
+    - 서울주택도시공사 임대자료빅데이터분석사업 참여(TheIMC:2016.08~2016.09)
+      - 데이터 스크래핑
+      - 비정형데이터 분석(LSA 토픽 모델링)
+      - 최종보고서 작성
+    - 채소류수급유통고도화사업단 빅데이터 분석 사업 참여(TheIMC:2016.06~2016.12)
+      - 네이버 검색량 추출
+      - 채소관련 키워드 버즈량 분석
+      - TF-IDF 반영 텍스트 빈도 분석
+      - 토픽모델링
+    - 빅스텝 정치부문 이슈 분석
+      - 총선 및 대선 주요 이슈 및 인물, 포탈별 트렌드 분석
+    - 2016년 총선 선거사무실 빅데이터 분석 보고 사업(지인과 진행)
+      - 후보자별 SNS 반응 분석, 검색량 분석 결과 제공
+    
+
 
 
 
