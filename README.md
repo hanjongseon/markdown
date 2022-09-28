@@ -1,15 +1,16 @@
 # 코드정리
 
-1. [토지 자동평가모형](https://gist.github.com/hanjongseon/e128c4279c883895fd5b43bb91f50d30) : 공시지가를 이용한 지가 추정을 위하여 격차율 정보 추출
+**1. 토지 자동평가모형 :**  공시지가를 이용한 지가 추정을 위하여 격차율 정보 추출
    - **tool and library** 
      - R(dplyr, stringr, data.table, jsonlite, httr, rvest, mise, arrow, readxl, writexl)
      - python(polars, pands, numpy, re, pyarrow)
    - **data source**
-     - 공시지가 데이터, 건축물대장데이터, 시세스크래핑데이터 
+     - 공시지가 데이터, 건축물대장데이터, 거래사례스크래핑데이터 
    - **method**
      - MAPE, MEDIAN, 좌표간 거리 계산, 도로조건 및 면적조건 등
+   - [**sample code**](https://gist.github.com/hanjongseon/e128c4279c883895fd5b43bb91f50d30)
 
-2. 경매데이터 매칭(매월 웹데이터 작업시)   
+**2. 경매데이터 매칭(매월 웹데이터 작업시)**   
    - 정규식 정리 및 모집단 데이터 매칭   
    - 경매낙찰횟수는 0.8 지수로 역산하여 계산
 
@@ -71,3 +72,17 @@
 
 14. polars(python)
     - MAP TEST
+
+15. 캄보디아
+    - ㅅㄷㄴㅅ
+      - 
+        - ㅅㄷㄴㅅ
+        - ㅅㄷㄴㅅ
+        - ㅅㄷㄴㅅ
+      - ㅅㅅㄷㄴㅅ2
+        - 
+
+
+
+
+
